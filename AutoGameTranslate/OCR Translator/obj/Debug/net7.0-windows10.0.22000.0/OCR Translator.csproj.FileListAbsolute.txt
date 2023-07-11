@@ -1,0 +1,36 @@
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\OCR Translator.exe
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\OCR Translator.deps.json
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\OCR Translator.runtimeconfig.json
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\OCR Translator.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\OCR Translator.pdb
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\WinRT.Runtime.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\MainWindow.g.cs
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\App.g.cs
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator_MarkupCompile.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator_MarkupCompile.lref
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\MainWindow.baml
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.g.resources
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.AssemblyInfo.cs
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.csproj.CopyComplete
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\refint\OCR Translator.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.pdb
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\OCR Translator.genruntimeconfig.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows10.0.22000.0\ref\OCR Translator.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Newtonsoft.Json.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\DeepL.net.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.Http.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.Logging.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.Options.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Extensions.Primitives.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Polly.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows10.0.22000.0\Polly.Extensions.Http.dll

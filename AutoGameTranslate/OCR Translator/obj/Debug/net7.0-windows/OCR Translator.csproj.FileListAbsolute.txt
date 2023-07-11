@@ -1,0 +1,21 @@
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows\OCR Translator.exe
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows\OCR Translator.deps.json
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows\OCR Translator.runtimeconfig.json
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows\OCR Translator.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\bin\Debug\net7.0-windows\OCR Translator.pdb
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator_MarkupCompile.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator_MarkupCompile.lref
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.g.resources
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.AssemblyInfo.cs
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\refint\OCR Translator.dll
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.pdb
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\OCR Translator.genruntimeconfig.cache
+C:\Users\patri\source\repos\OCR Translator\OCR Translator\obj\Debug\net7.0-windows\ref\OCR Translator.dll
